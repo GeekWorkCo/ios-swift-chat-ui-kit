@@ -50,7 +50,7 @@ ___
 
 ## 1. Setup
 
-To install iOS UI Kit, you  need to first register on CometChat Dashboard. [Click here to sign up](https://app.cometchat.com/login).
+To install iOS UI Kit, you  need to first register on Dashboard. [Click here to sign up](https://app.cometchat.com/login).
 
 ### i. Get your Application Keys
 
@@ -220,38 +220,3 @@ CometChatCallManager().registerForCalls(application: self)
 
 ## Swift: 
 Visit our [Swift sample app](https://github.com/cometchat-pro-samples/ios-swift-chat-app) repo to run the swift sample app.
-
-## Objective C: 
-Visit our [Objective-C sample app](https://github.com/cometchat-pro-samples/ios-objective-c-chat-app) repo to run the objective-c sample app.
-
----
-
-# Troubleshooting
-
-- To read the full dcoumentation on UI Kit integration visit our [Documentation](https://prodocs.cometchat.com/docs/ios-ui-kit)  .
-
-- Facing any issues while integrating or installing the UI Kit please <a href="https://app.cometchat.io/"> connect with us via real time support present in CometChat Dashboard.</a>.
-
----
-
-
-# Contributors
-
-Thanks to the following people who have contributed to this project:
-
-[@pushpsenairekar2911 👨‍💻](https://github.com/pushpsenairekar2911) <br>
-[@yadavmangesh 📝](https://github.com/yadavmangesh)
-
----
-
-# Contact
-
-Contact us via real time support present in [CometChat Dashboard.](https://app.cometchat.io/)
-
----
-
-# License
-
----
-
-This project uses the following [license](https://github.com/cometchat-pro/ios-swift-chat-ui-kit/blob/master/License.md).
